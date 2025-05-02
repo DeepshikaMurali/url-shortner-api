@@ -1,4 +1,3 @@
-````markdown
 # 🔗 URL Shortener API (FastAPI)
 
 A simple and lightweight URL shortener API built using FastAPI and SQLite.
